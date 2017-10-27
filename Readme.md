@@ -18,8 +18,16 @@ Automatic translation of videos :)
 
 ## Requirements:
 * Java8+
-* Humble library and ffpeg library
+* Gradle
+* Eclipse with builship gradle plugin and Project Lombok
+* [Humble video library](https://github.com/artclarke/humble-video) and [ffmpeg library](https://www.ffmpeg.org/)
 * A great language transalation service that can do speech to text or speech to speech. (Any suggestions?)
+
+
+### Big Note:
+Suggestions are always welcome.
+
+`- Sid`
 
 
 
